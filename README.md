@@ -4,7 +4,7 @@
 - Online news publish system on Google drive
 - Social dating Web and Andoid App
 - Snoring check iOS App "Owl"
-- Wiki engine "Owiki"
+- Wiki engine "Owiki"(https://namu.wiki/w/%EC%98%A4%EC%9C%84%ED%82%A4)
 
 <!--
 **jungyoun/jungyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
