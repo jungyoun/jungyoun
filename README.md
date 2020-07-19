@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-* developed - Online news publish system on Google drive / Social dating Web and Andoid App / Snoring check iOS App "Owl" / Wiki engine "Owiki"
+## developed
+- Online news publish system on Google drive
+- Social dating Web and Andoid App
+- Snoring check iOS App "Owl"
+- Wiki engine "Owiki"
 
 <!--
 **jungyoun/jungyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
