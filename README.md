@@ -6,8 +6,8 @@
 - Mentor for Microsoft Appstar Hackathon (2012, https://news.joins.com/article/9116688)
 - Social dating Web and App
 - Snoring check iOS App "Owl" (https://www.edaily.co.kr/news/read?newsId=01590806593032224)
-- Opensource Wiki engine "Owiki"(https://namu.wiki/w/%EC%98%A4%EC%9C%84%ED%82%A4)
-- Mobile diary softwere "Odiary" for PDA(http://www.dt.co.kr/contents.html?article_no=2001032202011805544001)
+- Open source Wiki engine "Owiki"(2005, https://namu.wiki/w/%EC%98%A4%EC%9C%84%ED%82%A4)
+- Mobile diary softwere "Odiary" for PDA(2001, http://www.dt.co.kr/contents.html?article_no=2001032202011805544001)
 
 <!--
 **jungyoun/jungyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
